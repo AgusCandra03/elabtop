@@ -1,0 +1,198 @@
+button {
+    width: 135px;
+}
+
+/* Navbar */
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.nav-link {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.navbar-brand img{
+    width: 45%;
+}
+
+/* Akhir Navbar */
+
+/* Banner */
+
+#banner h1{
+    margin-top: 150px;
+}
+
+#banner p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: silver;
+}
+
+#banner img{
+    width: 800px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+/* Akhir Banner */
+
+/* brand */
+
+#brand img {
+    width: 100%;
+    margin-top: 40px;
+}
+
+/* akhir brand */
+
+#produk {
+    margin-top: 120px;
+    text-align: center;
+}
+
+#produk h4{
+    font-weight: bold;
+}
+
+#produk hr{
+    width: 100px;
+    border: red solid;
+    opacity: 100%;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#produk p{
+    color: silver;
+}
+
+/* Akhir Produk */
+
+/* Promo */
+
+#promo img{
+    width: 100%;
+    margin-top: 150px;
+    margin-bottom: 170px;
+}
+
+/* Akhir Promo */
+
+/* Aksesoris */
+
+#aksesoris{
+    margin-bottom: 50px;
+}
+
+#aksesoris h4{
+    font-weight: bold;
+    text-align: center;
+}
+
+#aksesoris hr{
+    width: 100px;
+    border: red solid;
+    opacity: 100%;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#aksesoris .card{
+    border: none;
+}
+
+/* Akhir Aksesoris */
+
+/* Footer */
+
+#footer {
+    margin-bottom: 20px;
+}
+
+#footer img{
+    width: 100px;
+}
+
+#footer a img{
+    width: 50px;
+    margin-right: 30px;
+}
+
+#footer h5{
+    margin-top: 30px;
+}
+
+#footer a{
+    text-decoration: none;
+    color: black;
+}
+
+/* Akhir Footer */
+
+/* blog */
+
+#blog{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#blog .card-img-top{
+    width: 100%;
+}
+
+#artikel{
+    margin-bottom: 30px;
+}
+
+#artikel h4{
+    margin-bottom: 20px;
+}
+
+#artikel .card{
+    height: 100%;
+}
+
+/* akhir about */
+
+/* about */
+
+#about{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#about img{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+#about p{
+    text-align: justify;
+    margin-bottom: 50px;
+    text-indent: 30px;
+}
+
+/* akhir about */
+
+/* login */
+
+#login {
+    margin-top: 80px;
+}
+
+#login h1{
+    margin-top: 20px;
+}
+
+#login img{
+    width: 750px;
+}
